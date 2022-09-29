@@ -5,6 +5,8 @@
 Frontend starter repository for HW 1 of the Cloud Computing & Big Data
 class at Columbia University and New York University.
 
+## https://newbucketnyu.s3.amazonaws.com/cloud-hw1-starter-master/chat.html ##
+
 ## Usage ##
 
 1. Clone the repository.
